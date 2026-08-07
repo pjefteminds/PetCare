@@ -1,0 +1,29 @@
+# Binários e artefatos de compilação Maven
+/target/
+/bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Configurações de IDEs (NetBeans, Eclipse, IntelliJ)
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.settings/
+/.project/
+/.classpath/
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
