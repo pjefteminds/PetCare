@@ -1,7 +1,7 @@
 # PetCare - Sistema de Gerenciamento para Petshop
 
 ## Status do Projeto
-**Status:** Em Desenvolvimento
+**Status:** Finalizado
 
 ---
 
