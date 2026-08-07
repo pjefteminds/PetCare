@@ -1,7 +1,7 @@
 # PetCare - Sistema de Gerenciamento para Petshop
 
 ## Status do Projeto
-**Status:** Em Desenvolvimento 🚀
+**Status:** Em Desenvolvimento
 
 ---
 
@@ -18,7 +18,7 @@ As tecnologias utilizadas no desenvolvimento do projeto seguem o escopo de conte
 ---
 
 ## Time de Desenvolvedores
-- **Pedro Jefté** - Desenvolvedor Principal / Aluno SENAC
+- **Pedro Jefte** - / Aluno SENAC
 
 ---
 
